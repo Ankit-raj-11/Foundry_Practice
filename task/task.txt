@@ -1,0 +1,23 @@
+Task 1: The Simple Owner (State & Access Control) ◄ [We are here]
+
+Task 2: The Guestbook (Dynamic Arrays & Structs)
+
+Task 3: Todo List (Mappings & Struct Updates)
+
+Task 4: Simple Bank (Ether Transactions & Balances)
+
+Task 5: Time-Locked Wallet (Block Timestamps & Modifiers)
+
+Task 6: Voting System (Complex Mappings & Logic Checks)
+
+Task 7: The Registry (Custom Errors & Input Validation)
+
+Task 8: Multi-Signature Vault (Array Iteration & Multi-Auth)
+
+Task 9: Create Your Own ERC-20 Token (Inheritance & Standards)
+
+Task 10: Token Staking Pool (Math, Rewards, & ERC-20 Interactivity)
+
+Task 11: Decentralized Escrow (State Machines & Arbitrators)
+
+Task 12: The Reentrancy Challenge (Exploiting and Fixing a Vulnerability)

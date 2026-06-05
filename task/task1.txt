@@ -1,1 +1,0 @@
-Write a contract where an "owner" address is set during deployment. The owner can update a message string, but normal users cannot.
